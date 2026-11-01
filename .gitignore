@@ -1,0 +1,6 @@
+*.csv
+*.parquet
+*.log
+__pycache__/
+.venv/
+.streamlit/
